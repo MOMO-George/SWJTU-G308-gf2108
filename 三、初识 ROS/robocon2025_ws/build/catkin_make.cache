@@ -1,0 +1,2 @@
+gf3
+-DCATKIN_DEVEL_PREFIX=/home/momo/robocon2025_ws/devel -DCMAKE_INSTALL_PREFIX=/home/momo/robocon2025_ws/install -G Unix Makefiles

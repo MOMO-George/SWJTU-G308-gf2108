@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/momo/catkin_wc/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/momo/robocon2025_ws/src/gf3/include/**",
+        "/home/momo/catkin_wc/src/ros_tutorials/turtlesim/include/**",
+        "/home/momo/catkin_wc/src/wpr_simulation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

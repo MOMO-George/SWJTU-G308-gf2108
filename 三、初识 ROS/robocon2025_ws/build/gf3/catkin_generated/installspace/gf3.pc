@@ -1,0 +1,8 @@
+prefix=/home/momo/robocon2025_ws/install
+
+Name: gf3
+Description: Description of gf3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

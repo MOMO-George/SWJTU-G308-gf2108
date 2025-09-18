@@ -1,0 +1,4 @@
+{
+    "ros.distro": "noetic",
+    "cmake.sourceDirectory": "/home/momo/robocon2025_ws/src/gf3"
+}
